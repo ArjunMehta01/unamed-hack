@@ -1,0 +1,22 @@
+{
+  "name": "unnamed-hack",
+  "version": "1.0.0",
+  "description": "projecto",
+  "main": "public/js/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArjunMehta01/unnamed-hack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArjunMehta01/unnamed-hack/issues"
+  },
+  "homepage": "https://github.com/ArjunMehta01/unnamed-hack#readme",
+  "dependencies": {
+    "firebase": "^8.6.3"
+  }
+}
