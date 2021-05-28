@@ -1,2 +1,2 @@
-# unamed-hack
+# unnamed-hack
 Unnamed hackathon project.
